@@ -4,10 +4,10 @@ h1 {
    text-decoration: none;
    padding: 1ex;
    width: 50%
-      
+   font-family: tahoma, helvetica, sans-serif;
    color: red;
    font-size: 24pt;
-   font-family: tahoma, helvetica, sans-serif;
+
  }
 
  em {
